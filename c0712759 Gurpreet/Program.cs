@@ -70,7 +70,7 @@ class CountrySide
             Hugi.FoundAstrilde = true;
         }
 
-        // TO DO: Complete this section to make the Recursion work           
+                
 
 
     }
@@ -80,11 +80,11 @@ class CountrySide
         Alst = new Village("Alst", false);
         Schvenig = new Village("Schvenig", false);
         Wessig = new Village("Wessig", false);
-        // TO DO: Complete this section
+        
 
         Alst.VillageSetup(0, Schvenig, Wessig);
         Schvenig.VillageSetup(14, Maeland, Helmholtz);
-        // TO DO: Complete this section
+        
 
 
     }
