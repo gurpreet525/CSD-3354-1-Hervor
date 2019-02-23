@@ -38,6 +38,13 @@ class Hugi
 
 class CountrySide
 {
+    /*
+* CSD 3354 SECTION 3
+* ASIGNMENT ONE
+* TEAM MEMBERS:
+* Gurpreet Gurpreet(c0712759)
+* Arshdeep Singh ( c0716342)
+*/
     static void Main()
     {
         CountrySide a = new CountrySide();
